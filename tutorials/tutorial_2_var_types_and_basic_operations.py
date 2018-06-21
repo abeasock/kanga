@@ -8,7 +8,7 @@ Author: Amber Zaratsian
 
 import feedback
 import random
-from kanga import textwrap
+import textwrap
 
 
 mainflag = 0
