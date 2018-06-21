@@ -2,6 +2,9 @@
 
 **Requires Python 2.7**
 
+Dependencies: 
+The Python packages `textwrap` and `random` are used. These both are part of the standard library that comes installed with native Python.
+
 ## Description
 kanga is Python package intended to teach a user Python programming interactively in a real Python environment by allowing the user to enter commands and providing feedback or retries for incorrect answers. 
 
